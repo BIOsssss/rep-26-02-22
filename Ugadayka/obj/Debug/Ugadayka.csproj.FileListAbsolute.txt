@@ -1,0 +1,16 @@
+C:\Users\kumet\Source\Repos\rep-26-02-22\Ugadayka\bin\Debug\Ugadayka.exe.config
+C:\Users\kumet\Source\Repos\rep-26-02-22\Ugadayka\bin\Debug\Ugadayka.exe
+C:\Users\kumet\Source\Repos\rep-26-02-22\Ugadayka\bin\Debug\Ugadayka.pdb
+C:\Users\kumet\Source\Repos\rep-26-02-22\Ugadayka\obj\Debug\Ugadayka.csproj.AssemblyReference.cache
+C:\Users\kumet\Source\Repos\rep-26-02-22\Ugadayka\obj\Debug\Ugadayka.csproj.SuggestedBindingRedirects.cache
+C:\Users\kumet\Source\Repos\rep-26-02-22\Ugadayka\obj\Debug\MainWindow.g.cs
+C:\Users\kumet\Source\Repos\rep-26-02-22\Ugadayka\obj\Debug\App.g.cs
+C:\Users\kumet\Source\Repos\rep-26-02-22\Ugadayka\obj\Debug\Ugadayka_MarkupCompile.cache
+C:\Users\kumet\Source\Repos\rep-26-02-22\Ugadayka\obj\Debug\Ugadayka_MarkupCompile.lref
+C:\Users\kumet\Source\Repos\rep-26-02-22\Ugadayka\obj\Debug\MainWindow.baml
+C:\Users\kumet\Source\Repos\rep-26-02-22\Ugadayka\obj\Debug\Ugadayka.g.resources
+C:\Users\kumet\Source\Repos\rep-26-02-22\Ugadayka\obj\Debug\Ugadayka.Properties.Resources.resources
+C:\Users\kumet\Source\Repos\rep-26-02-22\Ugadayka\obj\Debug\Ugadayka.csproj.GenerateResource.cache
+C:\Users\kumet\Source\Repos\rep-26-02-22\Ugadayka\obj\Debug\Ugadayka.csproj.CoreCompileInputs.cache
+C:\Users\kumet\Source\Repos\rep-26-02-22\Ugadayka\obj\Debug\Ugadayka.exe
+C:\Users\kumet\Source\Repos\rep-26-02-22\Ugadayka\obj\Debug\Ugadayka.pdb
